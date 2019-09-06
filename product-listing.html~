@@ -14,7 +14,6 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/material-design-iconic-font/2.2.0/css/material-design-iconic-font.css">
    </head>
    <body>
-<div>amit</div>
       <header class="section-header">
          <nav class="navbar navbar-top navbar-expand-lg navbar-dark top-navbar">
             <div class="container-fluid d-none d-lg-block">
